@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: DiamondPricePrediction
-Version: 0.0.1
-Author: Yuvraj
-Author-email: yvtokesh@gmail.com
-Requires-Dist: pandas
-Requires-Dist: numpy
-Requires-Dist: matplotlib
-Requires-Dist: seaborn
